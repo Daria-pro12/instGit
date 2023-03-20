@@ -15,4 +15,4 @@
 
     $ git diff --staged
     
-[Предыдущая](./gitwork.md)| [К содержанию](./readme.md) | [Следующая](./historycommit.md) |
+[Предыдущая](./gitwork.md) | [К содержанию](./readme.md) | [Следующая](./historycommit.md) |

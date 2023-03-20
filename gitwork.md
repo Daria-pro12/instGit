@@ -16,4 +16,4 @@
 
      $ git pull --rebase
 
-[Предыдущая](./work.md)| [К содержанию](./readme.md) | [Следующая](./analis.md) |
+[Предыдущая](./work.md) | [К содержанию](./readme.md) | [Следующая](./analis.md) |
